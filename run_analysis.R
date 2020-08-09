@@ -27,7 +27,6 @@ x_total <- x_total[,selected[,1]]
 #print(features_selected)
 
 
-
 #Appropriate naming
 colnames(activity) <- c("activity_ID", "activity_Type")
 colnames(y_total)<-c("activity_ID")
