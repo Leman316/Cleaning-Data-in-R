@@ -32,6 +32,8 @@ x_total <- x_total[,selected[,1]]
 colnames(activity) <- c("activity_ID", "activity_Type")
 colnames(y_total)<-c("activity_ID")
 colnames(sub_total)<-c("Subject_ID")
+names(x_total)<-features_selected[[2]]
+
 
 
 #Tidy Set
