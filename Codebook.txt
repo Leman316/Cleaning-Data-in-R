@@ -1,0 +1,24 @@
+The data files here includes
+
+'Features_info.txt': Shows information about the variables used on the feature vector.
+
+'Features.txt': List of all features.
+
+'Activity_labels.txt': Links the class labels with their activity name.
+
+'Train/X_train.txt': Training set.
+
+-Train/y_train.txt': Training labels.
+
+'Test/X_test.txt': Test set.
+
+'Test/y_test.txt': Test labels.
+
+
+The files are:
+
+'Readme.txt' : Readme about this program
+
+'Tidy_Set.txt': Output text file
+
+'Run_analysis.R': The code that runs the program
